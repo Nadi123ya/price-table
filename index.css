@@ -63,7 +63,7 @@
 .price-card__options-list_dark {
   display: flex;
   mix-blend-mode: normal;
-  background-color: #2a343880;
+  background-color: #2a3438F2;
   line-height: 52px;
   font-weight: 300;
   font-size: 15px;
@@ -79,7 +79,7 @@
 .price-card__arrow {
   display: inline-block;
   width: 15px;
-  height: 15px;
+  height: 13px;
   margin: 18px 22px 19px 22px;
 }
 .price-card__order-btn_container {
@@ -118,13 +118,13 @@
 
 .price-card__popular_container {
   background: transparent;
-  width: 122px;
-  height: 123px;
+  width: 153px;
+  height: 143px;
   border: 25px solid #334247;
   border-color: #dc3f45 transparent transparent;
   position: absolute;
-  top: -65px;
-  right: -59px;
+  top: -71px;
+  right: -70px;
   transform: rotate(-137deg);
 }
 
@@ -134,9 +134,10 @@
   font-size: 14px;
   line-height: 17px;
   position: absolute;
-  top: 23px;
-  right: 2px;
-  transform: rotate(43deg);
+  top: 37px;
+  right: 5px;
+  bottom: 93px;
+  transform: rotate(44deg);
 }
 
 .price-business {
