@@ -1,6 +1,6 @@
 # Price cards
 
-**[Site Link](https://nadi123ya.github.io/first-site-attempt/ )**
+**[Site Link](https://nadi123ya.github.io/price-table/ )**
 
 ### Layout supports desktop (up-to-1360) version
 
