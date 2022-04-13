@@ -1,0 +1,37 @@
+.price-card__business {
+  padding: 33px 108px;
+  position: relative;
+}
+.price-card__popular_container {
+  background: transparent;
+  width: 122px;
+  height: 123px;
+  border: 25px solid $border-color-black;
+  border-color: $border-color-red transparent transparent;
+  position: absolute;
+  top: -65px;
+  right: -59px;
+  transform: rotate(-137deg);
+}
+
+.price-card__popular_text {
+  margin: 0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  position: absolute;
+  top: 23px;
+  right: 2px;
+  transform: rotate(43deg);
+}
+
+.price-business {
+  background-color: $price-color-business;
+}
+
+.blue-arrow {
+  background-image: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png");
+}
+.button-business {
+  background-color: $button-color-business;
+}
