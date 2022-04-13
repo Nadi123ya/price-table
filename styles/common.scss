@@ -1,4 +1,10 @@
-section {
+.tables {
+  display: flex;
+  flex-direction: row;
+  padding: 155px 132px;
+}
+
+.price-card {
   margin-left: 18px;
   flex-shrink: 0;
   flex-grow: 1;
@@ -7,20 +13,14 @@ section {
   &:first-child {
     margin-left: 0;
   }
-}
-
-.tables {
-  display: flex;
-  flex-direction: row;
-  padding: 155px 132px;
-}
-
-.price-card {
-  background-color: $background-color-light-grey;
-  display: flex;
-  flex-direction: column;
 
   &__title {
+    background-color: $background-color-light-grey;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__subtitle {
     margin: 0;
     font-weight: 700;
     font-size: 35px;
