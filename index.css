@@ -102,6 +102,7 @@
   width: 155px;
   height: 40px;
   text-align: center;
+  border: none;
 }
 
 .price-card__basic {
@@ -146,7 +147,7 @@
   top: 37px;
   right: 5px;
   bottom: 93px;
-  transform: rotate(44deg);
+  transform: rotate(45deg);
 }
 
 .price-business {
