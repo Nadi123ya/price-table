@@ -70,21 +70,25 @@
   }
 
   &__options-list_dark {
+    margin: 0;
     display: flex;
     mix-blend-mode: normal;
     background-color: $background-color-option-dark;
-    line-height: 52px;
+    line-height: 50px;
     font-weight: 300;
     font-size: 15px;
+    height: 50px;
   }
 
   &__options-list_light {
+    margin: 0;
     display: flex;
     background-color: $background-color-option-light;
     mix-blend-mode: normal;
-    line-height: 52px;
+    line-height: 50px;
     font-weight: 300;
     font-size: 15px;
+    height: 50px;
   }
 
   &__arrow {
@@ -96,6 +100,7 @@
 
   &__order-btn_container {
     background-color: $background-color-option-light;
+    height:116px;
   }
 
   &__order-btn {

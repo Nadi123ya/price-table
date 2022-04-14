@@ -63,20 +63,24 @@
   margin: 0;
 }
 .price-card__options-list_dark {
+  margin: 0;
   display: flex;
   mix-blend-mode: normal;
   background-color: #2a3438F2;
-  line-height: 52px;
+  line-height: 50px;
   font-weight: 300;
   font-size: 15px;
+  height: 50px;
 }
 .price-card__options-list_light {
+  margin: 0;
   display: flex;
   background-color: #334247;
   mix-blend-mode: normal;
-  line-height: 52px;
+  line-height: 50px;
   font-weight: 300;
   font-size: 15px;
+  height: 50px;
 }
 .price-card__arrow {
   display: inline-block;
@@ -86,6 +90,7 @@
 }
 .price-card__order-btn_container {
   background-color: #334247;
+  height: 116px;
 }
 .price-card__order-btn {
   margin: 39px 113.37px 40px 112px;
