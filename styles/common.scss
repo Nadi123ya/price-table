@@ -69,7 +69,7 @@
     margin: 0;
   }
 
-  &__options-list_dark {
+  &__options-list_dark{
     margin: 0;
     display: flex;
     mix-blend-mode: normal;
@@ -80,7 +80,7 @@
     height: 50px;
   }
 
-  &__options-list_light {
+  &__options-list_light{
     margin: 0;
     display: flex;
     background-color: $background-color-option-light;
@@ -100,7 +100,7 @@
 
   &__order-btn_container {
     background-color: $background-color-option-light;
-    height:116px;
+    height: 116px;
   }
 
   &__order-btn {
@@ -113,6 +113,6 @@
     width: 155px;
     height: 40px;
     text-align: center;
-    border:none;
+    border: none;
   }
 }

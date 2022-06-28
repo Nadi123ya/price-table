@@ -2,7 +2,7 @@
 
 **[Site Link](https://nadi123ya.github.io/price-table/ )**
 
-### Layout supports desktop (up-to-1360) version
+### Layout supports desktop (up-to-1400) version
 
 ## The tech stack is:
 

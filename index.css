@@ -124,30 +124,22 @@
 .price-card__business {
   padding: 33px 108px;
   position: relative;
+  overflow: hidden;
 }
 
 .price-card__popular_container {
-  background: transparent;
-  width: 153px;
-  height: 143px;
-  border: 25px solid #334247;
-  border-color: #dc3f45 transparent transparent;
   position: absolute;
-  top: -71px;
-  right: -70px;
-  transform: rotate(-137deg);
-}
-
-.price-card__popular_text {
-  margin: 0;
+  top: 16px;
+  right: -29px;
+  transform: rotate(44deg);
+  text-align: center;
+  background-color: #DC3F45;
+  width: 148px;
+  padding-left: 50px;
+  padding-right: 23px;
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
-  position: absolute;
-  top: 37px;
-  right: 5px;
-  bottom: 93px;
-  transform: rotate(45deg);
 }
 
 .price-business {
