@@ -5,17 +5,20 @@
 }
 .price-card__popular_container {
   position: absolute;
-    top: 16px;
-    right: -29px;
-    transform: rotate(44deg);
-    text-align: center;
-    background-color: $popular-block-color;
-    width: 148px;
-    padding-left: 50px;
-    padding-right: 23px;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
+  top: 18px;
+  right: -29px;
+  transform: rotate(44deg);
+  height: 20px;
+  width: 148px;
+  background-color: $popular-block-color;
+  text-align: center;
+  padding-top: 2px;
+  padding-left: 48px;
+  padding-right: 65px;
+  margin: 0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
 }
 
 .price-business {
